@@ -1,0 +1,6 @@
+# 这是明文的例子
+aus.livehk.me 123.123.123.123
+api.livehk.com 123.123.123.123
+api.livehk.org 123.123.123.123
+api.livehk.net 123.123.123.123
+api.livehk.so 123.123.123.123
